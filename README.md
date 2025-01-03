@@ -9,5 +9,5 @@ It is not allowed to use this prop in any paid scripts.
 Prop spwan name: as_speed_camera_prop
 
 # Discord
-If you have a question or a suggestions for new props feel free to join our discord server.
+If you have a question or a suggestion for a new prop feel free to join our discord server.
 https://dsc.gg/ascave
