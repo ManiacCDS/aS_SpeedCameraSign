@@ -11,3 +11,8 @@ Prop spwan name: as_speed_camera_prop
 # Discord
 If you have a question or a suggestion for a new prop feel free to join our discord server.
 https://dsc.gg/ascave
+
+# Preview
+
+![speed_sign](https://github.com/user-attachments/assets/249b15e0-ec50-4512-a35d-e8db48c287c1)
+![20250103140336_1](https://github.com/user-attachments/assets/185b4fe7-8271-428c-968e-d5a0dcc09dd0)
